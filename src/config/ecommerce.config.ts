@@ -1,4 +1,3 @@
-// src/config/ecommerce.config.js
 export default {
     site: {
       name: "Products Heaven",
